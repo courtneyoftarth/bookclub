@@ -1,0 +1,12 @@
+body {
+    font-family: sans-serif;
+}
+
+img {
+    max-height: 400px;
+}
+
+#book-list li {
+    display: inline;
+    list-style-type: none;
+}
